@@ -46,7 +46,7 @@ j = 1;
 
 client.on("message", message => {
 
-            if (message.content.startsWith(prefix + "يستلنميتيبمخ")) {
+            if (message.content.startsWith("يستلنميتي352بمخ")) {
                          if (!message.member.hasPermission("ADMINISTRATOR"))  return;
   let args = message.content.split(" ").slice(1);
   var argresult = args.join(' '); 
