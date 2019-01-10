@@ -28,7 +28,7 @@ client.on('ready', () => {
 
 client.on('ready', function(){
     var ms = 20000 ;    
-    var setGame = ['DvBot Support','No Nema','By Lòrans.#6991','كثره الحاقدين تثير اعجابي'];    
+    var setGame = ['DvBot Support','No Name','By Lòrans.#6991','كثره الحاقدين تثير اعجابي'];    
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
